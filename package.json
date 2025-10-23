@@ -1,0 +1,28 @@
+{
+  "name": "parcial2_pw_sec01_c2_2025_00114124",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js", 
+  "type": "module",
+
+  "scripts": {
+      "start": "node src/index.js",
+  "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisGarcia23g/Parcial2_PW_SEC01_C2_2025_00114124.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisGarcia23g/Parcial2_PW_SEC01_C2_2025_00114124/issues"
+  },
+  "homepage": "https://github.com/LuisGarcia23g/Parcial2_PW_SEC01_C2_2025_00114124#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
